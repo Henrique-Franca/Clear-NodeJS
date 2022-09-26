@@ -16,8 +16,8 @@
   },
   "homepage": "https://github.com/Henrique-Franca/Clear-NodeJS#readme",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.18.1"
   },
-  "devDependencies": {},
   "description": ""
 }
